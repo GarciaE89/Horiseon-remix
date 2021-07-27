@@ -26,3 +26,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+Based on the user story, I replaced all divs with appropriate semantic html elements, added alt attributes, update webpage title, and consolidated css styling by targeting classes with same styling to truncate the style sheet. 
